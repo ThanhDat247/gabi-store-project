@@ -172,6 +172,7 @@
 .form-field-2 {
     width: 178%;
     margin-left: -20%;
+    margin-top: 20px;
 }
 .name {
     font-size: 30px;
@@ -198,7 +199,7 @@
     width: 180px;
 }
 .form-field-total-2-1 p {
-    font-weight: 900;
+    font-weight: 600;
     font-size: 13px;
 }
 .form-field-total-2-2 {
@@ -299,4 +300,9 @@
 .form-field-pay-left-2-2 {
     font-size: 18px;
     font-weight: 600;
+}
+.wrapper-title h3,
+.method h3{
+ font-weight: normal;
+ 
 }

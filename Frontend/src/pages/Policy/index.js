@@ -63,7 +63,7 @@ function Policy() {
                 <h3>Chúng tôi làm gì với hàng đổi trả:</h3>
                 <li>Áo thun, quần short: thu gom và gởi cho các chương trình từ thiện</li>
                 <li>Bít tất, boxer: huỷ bỏ 100%</li>
-               <Link to="/deliverInfo"> <Button primary className={cx('return')}>Tiếp tục thanh toán</Button></Link>
+               <Link to="/deliverInfo"> <Button primary className={cx('return')}>Trở về</Button></Link>
             </div>
         </div>
     );

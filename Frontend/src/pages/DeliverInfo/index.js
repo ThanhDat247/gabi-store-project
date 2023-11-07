@@ -128,7 +128,7 @@ function DeliverInfo() {
                         </Link>
                     </div>
                     <div className={cx('form-field-2')}>
-                        <div className={cx('name')}>Giỏ hàng</div>
+                        {/* <div className={cx('name')}>Giỏ hàng</div> */}
                         <div className={cx('form-field-total')}>
                             <div className={cx('form-field-total-1')}>
                                 <img src="https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/July2023/HN-TU_HAO-3.jpg" />
